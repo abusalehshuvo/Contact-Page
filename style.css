@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main{
+	background-color: #728991;
+	width: 100%;
+	height: 768px;
+	overflow: hidden;
+}
+
+.mid{
+	width: 60%;
+	height: 650px;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.mid .left{
+	width: 50%;
+	height: 600px;
+	background-color: white;
+	margin: auto;
+	float: left;
+}
+
+.mid .right {
+	width: 50%;
+	height: 600px;
+	background-color: #23B2DA;
+	margin: auto;
+	float: left;
+}
+
+.mid .left h2{
+	margin-left: 77px;
+	margin-top: 40px;
+	margin-bottom: 15px;
+}
+
+.mid .left input{
+	display: block;
+	width: 60%;
+	height: 35px;
+	margin: auto;
+	margin-bottom: 15px;
+	border-radius: 15px 15px;
+	padding-left: 10px;
+	border:1px solid gray;
+	font-size: 15px;
+	font-family: calbiri;
+
+}
+
+.mid .left textarea{
+	display: block;
+	width: 60%;
+	height: 100px;
+	margin: auto;
+	border-radius: 15px 15px;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-size: 15px;
+	font-family: calbiri;
+	margin-bottom: 50px;
+}
+
+.mid .left input[type=button]{
+	background-color: #23B2DA;
+	width: 65%;
+	height: 35px;
+	margin: auto;
+	color: white;
+
+}
+
+.mid .left h3{
+	margin-left: 77px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.mid .left .social{
+	width: 50%;
+	margin:auto;
+	margin-left: 140px;
+}
+
+.mid .left .social img{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+
+.mid .right h2{
+	margin-top: 40px;
+	margin-left: 50px;
+	color: white;
+}
+
+.mid .right p{
+	margin-left: 50px;
+	color: white;
+	margin-top: 15px;
+	margin-right: 50px;
+	line-height: 20px;
+}
+
+.mid .right h5{
+	margin-left: 50px;
+	margin-top: 15px;
+	margin-right: 50px;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+
+.mid .right iframe{
+	width: 100%;
+	height: 150px;
+}
+
+.mid .right h5 span{
+	color: white;
+	margin-top: 15px;
+	margin-right: 50px;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
